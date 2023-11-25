@@ -1,4 +1,4 @@
-# Nosql Challenge Eat Safe, Love
+# NoSQL Challenge Eat Safe, Love
 
 # Instructions
 
