@@ -27,8 +27,7 @@ The magazine editors have some requested modifications for the database before y
 
 1. An exciting new halal restaurant just opened in Greenwich, but hasn't been rated yet. The magazine has asked you to include it in your analysis. Add the following information to the database:
 
-
-
+![Screenshot 2023-11-25 150123](https://github.com/isekmen/nosql-challenge/assets/101214487/a43b0d54-39a3-4cd9-b812-47c9f6fc8425)
 
 
 2. Find the BusinessTypeID for "Restaurant/Cafe/Canteen" and return only the `BusinessTypeID` and `BusinessType` fields.
@@ -69,7 +68,7 @@ Unless otherwise stated, for each question:
   ## Hint: You will need to use the `aggregation` method to answer this.
 
   The first 5 rows of your resulting DataFrame should look something like this:
-
-
+  
+![Screenshot 2](https://github.com/isekmen/nosql-challenge/assets/101214487/e70c3925-1f3e-487d-bdfc-dad5898c2663)
 
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
